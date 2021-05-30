@@ -13,7 +13,7 @@ A discord bot to display the price of a cryptocurrency in every listed exchange,
 
 # <a name = "how-to-install"></a> How to install
 
-First, you can use this guide to crate the bot: https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/
+First, you can use this guide to create the bot account: https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/
 
 The bot runs on Node.js, version 8.x or higher is recommended, it can be obtained here: https://nodejs.org/en/ 
 
